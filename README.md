@@ -1,3 +1,5 @@
+This repo is one of the projects when working through the book [React Projects by Roy Derks](https://www.packtpub.com/product/react-projects/9781789954937) from Packt Publications.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
